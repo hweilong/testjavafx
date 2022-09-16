@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhweilong%2Ftestjavafx.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhweilong%2Ftestjavafx?ref=badge_shield)
+
 JavaFX 打包示例（还没完全测试）
 ------------------------------------------------------------
 
@@ -116,3 +118,7 @@ C:\CommandLineTools\Java\jdk-17\bin\jpackage.exe -n JavaFXSample --app-image ./t
 > macOS上`mvn gluonfx:run`或`gradle nativeRun`不会报告任何错误，但直接双击生成的程序运行时，关联的控制台窗口会报告
 > ```java.lang.NoSuchMethodError: com.sun.glass.ui.mac.MacAccessible.accessibilityAttributeNames```，但不会影响程序的运行
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhweilong%2Ftestjavafx.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhweilong%2Ftestjavafx?ref=badge_large)
